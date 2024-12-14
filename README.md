@@ -48,8 +48,9 @@ This project focuses on enhancing low-resolution images into high-resolution ver
 ## Installation Instructions:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/Image-Super-Resolution.git
-   cd Image-Super-Resolution
+   git clone https://github.com/PiyushiLabhe03/NeuralNeuron.git
+   cd NeuralNeuron
+  
    ```
 2. Install dependencies:
    ```bash
@@ -99,11 +100,4 @@ This project focuses on enhancing low-resolution images into high-resolution ver
 ## Contact Information:
 For questions or feedback, contact **Piyushi N. Labhe** at [labhe.piyushi03@gmail.com](mailto:labhe.piyushi03@gmail.com).
 
-
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-**Note:** Please update the repository link and other placeholders (like LICENSE details) as per your actual project setup.
 
